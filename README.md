@@ -58,21 +58,12 @@ It streamlines academic workflows for **admins, teachers, and students**, with a
 
 ### 🛠️ Admin Panel Screens
 
-| **Dashboard** | **Create Student Class** | **Manage Classes** |
+| **Dashboard** |
 |---|---|---|
-| ![Dashboard](Front-End%20some%20Images/14.png) | ![Create Student Class](Front-End%20some%20Images/15.png) | ![Manage Classes](Front-End%20some%20Images/16.png) |
+| ![Dashboard](Front-End%20some%20Images/14.png) | 
 
-| **Create Subject** | **Manage Subjects** | **Add Subject Combination** |
-|---|---|---|
-| ![Create Subject](Front-End%20some%20Images/17.png) | ![Manage Subjects](Front-End%20some%20Images/18.png) | ![Add Subject Combination](Front-End%20some%20Images/19.png) |
 
-| **Manage Subject Combination** | **Add Students** | **Manage Students** |
-|---|---|---|
-| ![Manage Subject Combination](Front-End%20some%20Images/20.png) | ![Add Students](Front-End%20some%20Images/21.png) | ![Manage Students](Front-End%20some%20Images/22.png) |
 
-| **Add Result** | **Manage Result** | **Manage Notices** |
-|---|---|---|
-| ![Add Result](Front-End%20some%20Images/23.png) | ![Manage Result](Front-End%20some%20Images/11.png) | ![Manage Notices](Front-End%20some%20Images/12.png) |
 
 
 > ✅ **What changed:**  
