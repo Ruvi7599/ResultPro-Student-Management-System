@@ -43,25 +43,33 @@ The system is designed with a **responsive Bootstrap UI**, ensuring smooth usage
 
 ## 📸 User Interface (UI Previews)
 
-> Add your UI screenshots inside a folder named `screenshots/` and update the paths below.
+Here are some screenshots of the **ResultPro UI**:
 
-- **Login Page**  
-  ![Login Page](screenshots/login.png)
+| Login Page | Dashboard | Add Student |
+|------------|-----------|-------------|
+| ![Login](Front-End%20some%20Images/1.png) | ![Dashboard](Front-End%20some%20Images/2.png) | ![Add Student](Front-End%20some%20Images/10.png) |
 
-- **Admin Dashboard**  
-  ![Admin Dashboard](screenshots/admin-dashboard.png)
+| Manage Results | Student View | Reports |
+|----------------|--------------|---------|
+| ![Manage Results](Front-End%20some%20Images/11.png) | ![Student View](Front-End%20some%20Images/12.png) | ![Reports](Front-End%20some%20Images/13.png) |
 
-- **Student Result Page**  
-  ![Student Result Page](screenshots/student-result.png)
+| Subject List | Admin Profile | Search |
+|--------------|---------------|--------|
+| ![Subject List](Front-End%20some%20Images/14.png) | ![Admin Profile](Front-End%20some%20Images/15.png) | ![Search](Front-End%20some%20Images/16.png) |
 
-- **Report Generation**  
-  ![Report Generation](screenshots/report.png)
+| Teacher Panel | Student Result | Export Report |
+|---------------|----------------|---------------|
+| ![Teacher Panel](Front-End%20some%20Images/17.png) | ![Student Result](Front-End%20some%20Images/18.png) | ![Export Report](Front-End%20some%20Images/19.png) |
+
+| More UI Samples |
+|-----------------|
+| ![UI1](Front-End%20some%20Images/20.png) ![UI2](Front-End%20some%20Images/21.png) |
 
 ---
 
 ## ⚙️ Installation Guide
 
-Follow these steps to set up ResultPro on your local system:
+Follow these steps to set up **ResultPro** on your local system:
 
 1. **Clone the repository**
    ```bash
