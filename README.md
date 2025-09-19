@@ -1,39 +1,41 @@
 # 🎓 ResultPro – Student Result Management System
 
-ResultPro is a **web-based Student Result Management System** built using **PHP, MySQL, Bootstrap, HTML, CSS, and JavaScript**.  
-It provides an efficient platform for administrators, teachers, and students to manage, view, and analyze academic performance.  
+**ResultPro** is a **modern web-based Student Result Management System** built using **PHP, MySQL, Bootstrap, HTML, CSS, and JavaScript**.  
+It empowers **students, teachers, and administrators** by streamlining academic processes, ensuring secure result handling, and offering a visually appealing, responsive interface.  
 
-The system is designed with a **responsive Bootstrap UI**, ensuring smooth usage across desktops, tablets, and mobile devices.
+The system is designed with a **Bootstrap-based responsive UI** for seamless use on desktops, tablets, and mobile devices.
 
 ---
 
-## 🚀 Features
+## 🚀 Key Features
 
-- **Admin Panel**
-  - Manage students, teachers, subjects, and results.
-  - Secure login authentication.
-  - Generate reports and export student results.
+### 🛠️ **Admin Panel**
+- Manage students, teachers, subjects, and academic records.  
+- Role-based authentication for secure access.  
+- Generate, analyze, and export result reports.  
+- Manage system notices and announcements.  
 
-- **Teacher Panel**
-  - Add/update student marks.
-  - View and verify results.
-  - Manage subject-wise performance.
+### 👩‍🏫 **Teacher Panel**
+- Add or update student marks for subjects.  
+- View and verify results before publishing.  
+- Track subject-wise performance and progress.  
 
-- **Student Panel**
-  - Login with credentials to view results.
-  - Search by Student ID / Name.
-  - Download or print result sheets.
+### 🎓 **Student Panel**
+- View results securely by **Roll ID** and **Class**.  
+- Search results by Student ID/Name.  
+- Download and print individual result sheets.  
 
-- **General Features**
-  - Mobile-friendly **Bootstrap UI**.
-  - Role-based access control (Admin / Teacher / Student).
-  - Secure database with MySQL.
-  - Reduced manual paperwork and calculation errors.
+### 🌟 **General Highlights**
+- **Fully responsive Bootstrap UI** with modern design.  
+- Notice Board integration for academic updates.  
+- Trending courses section to showcase academic offerings.  
+- Role-based access control (Admin / Teacher / Student).  
+- Secure MySQL backend for reliable result storage.  
+- Reduces manual paperwork and minimizes calculation errors.  
 
 ---
 
 ## 🖥️ Technologies Used
-
 - **Frontend:** HTML5, CSS3, Bootstrap, JavaScript  
 - **Backend:** PHP (Core PHP)  
 - **Database:** MySQL (via XAMPP)  
@@ -43,27 +45,17 @@ The system is designed with a **responsive Bootstrap UI**, ensuring smooth usage
 
 ## 📸 User Interface (UI Previews)
 
-Here are some screenshots of the **ResultPro UI**:
+| Home Page | Notice Board | Trending Courses |
+|-----------|--------------|------------------|
+| ![Home](Front-End%20some%20Images/1.png) | ![Notice](Front-End%20some%20Images/2.png) | ![Courses](Front-End%20some%20Images/3.png) |
 
-| Login Page | Dashboard | Add Student |
-|------------|-----------|-------------|
-| ![Login](Front-End%20some%20Images/1.png) | ![Dashboard](Front-End%20some%20Images/2.png) | ![Add Student](Front-End%20some%20Images/10.png) |
+| Services | Student Result Search | Teacher Login |
+|----------|-----------------------|---------------|
+| ![Services](Front-End%20some%20Images/4.png) | ![Student Search](Front-End%20some%20Images/5.png) | ![Teacher Login](Front-End%20some%20Images/6.png) |
 
-| Manage Results | Student View | Reports |
-|----------------|--------------|---------|
-| ![Manage Results](Front-End%20some%20Images/11.png) | ![Student View](Front-End%20some%20Images/12.png) | ![Reports](Front-End%20some%20Images/13.png) |
-
-| Subject List | Admin Profile | Search |
-|--------------|---------------|--------|
-| ![Subject List](Front-End%20some%20Images/14.png) | ![Admin Profile](Front-End%20some%20Images/15.png) | ![Search](Front-End%20some%20Images/16.png) |
-
-| Teacher Panel | Student Result | Export Report |
-|---------------|----------------|---------------|
-| ![Teacher Panel](Front-End%20some%20Images/17.png) | ![Student Result](Front-End%20some%20Images/18.png) | ![Export Report](Front-End%20some%20Images/19.png) |
-
-| More UI Samples |
-|-----------------|
-| ![UI1](Front-End%20some%20Images/20.png) ![UI2](Front-End%20some%20Images/21.png) |
+| Loading Screen | Developer Team |
+|----------------|----------------|
+| ![Loading](Front-End%20some%20Images/7.png) | ![Team](Front-End%20some%20Images/8.png) |
 
 ---
 
