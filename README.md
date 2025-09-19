@@ -1,68 +1,70 @@
 # 🎓 ResultPro – Student Result Management System
 
-**ResultPro** is a **modern web-based Student Result Management System** built using **PHP, MySQL, Bootstrap, HTML, CSS, and JavaScript**.  
-It empowers **students, teachers, and administrators** by streamlining academic processes, ensuring secure result handling, and offering a visually appealing, responsive interface.  
-
-The system is designed with a **Bootstrap-based responsive UI** for seamless use on desktops, tablets, and mobile devices.
+**ResultPro** is a modern **web-based Student Result Management System** built with **PHP, MySQL, Bootstrap, HTML, CSS, and JavaScript**.  
+It streamlines academic workflows for **admins, teachers, and students**, with a clean, responsive UI.
 
 ---
 
 ## 🚀 Key Features
 
-### 🛠️ **Admin Panel**
-- Manage students, teachers, subjects, and academic records.  
-- Role-based authentication for secure access.  
-- Generate, analyze, and export result reports.  
-- Manage system notices and announcements.  
+### 🛠️ Admin Panel
+- Manage students, teachers, subjects, and results
+- Role-based authentication
+- Generate/Export reports
+- Publish notices & announcements
 
-### 👩‍🏫 **Teacher Panel**
-- Add or update student marks for subjects.  
-- View and verify results before publishing.  
-- Track subject-wise performance and progress.  
+### 👩‍🏫 Teacher Panel
+- Add/Update marks
+- Verify before publish
+- Track subject-wise performance
 
-### 🎓 **Student Panel**
-- View results securely by **Roll ID** and **Class**.  
-- Search results by Student ID/Name.  
-- Download and print individual result sheets.  
+### 🎓 Student Panel
+- Secure view by **Roll ID** + **Class**
+- Quick search by ID/Name
+- Print/Download result sheets
 
-### 🌟 **General Highlights**
-- **Fully responsive Bootstrap UI** with modern design.  
-- Notice Board integration for academic updates.  
-- Trending courses section to showcase academic offerings.  
-- Role-based access control (Admin / Teacher / Student).  
-- Secure MySQL backend for reliable result storage.  
-- Reduces manual paperwork and minimizes calculation errors.  
+### 🌟 Highlights
+- Fully responsive Bootstrap UI
+- Notice Board & Services sections
+- Secure MySQL backend
+- Reduces manual work & errors
 
 ---
 
-## 🖥️ Technologies Used
+## 🖥️ Tech Stack
 - **Frontend:** HTML5, CSS3, Bootstrap, JavaScript  
-- **Backend:** PHP (Core PHP)  
+- **Backend:** PHP (Core)  
 - **Database:** MySQL (via XAMPP)  
-- **Other Tools:** XAMPP Server, phpMyAdmin  
+- **Tools:** XAMPP, phpMyAdmin
 
 ---
 
 ## 📸 User Interface (UI Previews)
 
-| Home Page | Notice Board | Trending Courses |
-|-----------|--------------|------------------|
-| ![Home](Front-End%20some%20Images/1.png) | ![Notice](Front-End%20some%20Images/2.png) | ![Courses](Front-End%20some%20Images/3.png) |
+### Home & Info
+| Home (Hero) | Notice Board | Trending Courses |
+|---|---|---|
+| ![Home](Front-End%20some%20Images/1.png) | ![Notice Board](Front-End%20some%20Images/2.png) | ![Trending Courses](Front-End%20some%20Images/3.png) |
 
-| Services | Student Result Search | Teacher Login |
-|----------|-----------------------|---------------|
-| ![Services](Front-End%20some%20Images/4.png) | ![Student Search](Front-End%20some%20Images/5.png) | ![Teacher Login](Front-End%20some%20Images/6.png) |
+### Core Screens (Corrected)
+| **Services (CTA)** | **Student Result Search** | **Teacher Login** |
+|---|---|---|
+| ![Services CTA](Front-End%20some%20Images/4.png) | ![Student Result Search](Front-End%20some%20Images/5.png) | ![Teacher Login](Front-End%20some%20Images/6.png) |
 
-| Loading Screen | Developer Team |
-|----------------|----------------|
-| ![Loading](Front-End%20some%20Images/7.png) | ![Team](Front-End%20some%20Images/8.png) |
+### Misc
+| **Loading Screen** | **Developer Team** |
+|---|---|
+| ![Loading Screen](Front-End%20some%20Images/7.png) | ![Developer Team](Front-End%20some%20Images/8.png) |
+
+> ✅ **What changed:**  
+> - “Student Result Search” now correctly shows the **Roll ID + Class** search screen (`5.png`).  
+> - “Services” refers to the **Join Us / CTA** section (`4.png`).  
+> - Teacher Login, Loading, and Dev Team are mapped to `6.png`, `7.png`, and `8.png` respectively.
 
 ---
 
-## ⚙️ Installation Guide
+## ⚙️ Installation
 
-Follow these steps to set up **ResultPro** on your local system:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Ruvi7599/ResultPro-Student-Management-System.git
+1) **Clone**
+```bash
+git clone https://github.com/Ruvi7599/ResultPro-Student-Management-System.git
