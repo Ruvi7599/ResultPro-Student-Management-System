@@ -46,13 +46,6 @@ It streamlines academic workflows for **admins, teachers, and students**, with a
 |---|---|---|
 | ![Home](Front-End%20some%20Images/1.png) | ![Notice Board](Front-End%20some%20Images/2.png) | ![Trending Courses](Front-End%20some%20Images/3.png) |
 
-## 📸 User Interface (UI Previews)
-
-### Home & Info
-| Home (Hero) | Notice Board | Trending Courses |
-|---|---|---|
-| ![Home](Front-End%20some%20Images/1.png) | ![Notice Board](Front-End%20some%20Images/2.png) | ![Trending Courses](Front-End%20some%20Images/3.png) |
-
 ### Core Screens
 | **Services (CTA)** | **Student Result Search** | **Teachers Login** |
 |---|---|---|
