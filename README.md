@@ -46,15 +46,23 @@ It streamlines academic workflows for **admins, teachers, and students**, with a
 |---|---|---|
 | ![Home](Front-End%20some%20Images/1.png) | ![Notice Board](Front-End%20some%20Images/2.png) | ![Trending Courses](Front-End%20some%20Images/3.png) |
 
-### Core Screens (Corrected)
-| **Services (CTA)** | **Student Result Search** | **Teacher Login** |
-|---|---|---|
-| ![Services CTA](Front-End%20some%20Images/4.png) | ![Student Result Search](Front-End%20some%20Images/5.png) | ![Teacher Login](Front-End%20some%20Images/6.png) |
+## 📸 User Interface (UI Previews)
 
-### Misc
-| **Loading Screen** | **Developer Team** |
-|---|---|
-| ![Loading Screen](Front-End%20some%20Images/7.png) | ![Developer Team](Front-End%20some%20Images/8.png) |
+### Home & Info
+| Home (Hero) | Notice Board | Trending Courses |
+|---|---|---|
+| ![Home](Front-End%20some%20Images/1.png) | ![Notice Board](Front-End%20some%20Images/2.png) | ![Trending Courses](Front-End%20some%20Images/3.png) |
+
+### Core Screens
+| **Services (CTA)** | **Student Result Search** | **Teachers Login** |
+|---|---|---|
+| ![Services CTA](Front-End%20some%20Images/4.png) | ![Student Result Search](Front-End%20some%20Images/7.png) | ![Teachers Login](Front-End%20some%20Images/13.png) |
+
+### Extras
+| **Footer** | **Loading Screen** | **Developer Team** |
+|---|---|---|
+| ![Footer](Front-End%20some%20Images/6.png) | ![Loading Screen](Front-End%20some%20Images/9.png) | ![Developer Team](Front-End%20some%20Images/10.png) |
+
 
 > ✅ **What changed:**  
 > - “Student Result Search” now correctly shows the **Roll ID + Class** search screen (`5.png`).  
